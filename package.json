@@ -1,0 +1,19 @@
+{
+  "name": "js-professional-study-guide",
+  "version": "1.0.0",
+  "description": "Platzi Video con plugins de JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juliol1/js-professional-study-guide.git"
+  },
+  "author": "juliol1",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/juliol1/js-professional-study-guide/issues"
+  },
+  "homepage": "https://github.com/juliol1/js-professional-study-guide#readme"
+}
